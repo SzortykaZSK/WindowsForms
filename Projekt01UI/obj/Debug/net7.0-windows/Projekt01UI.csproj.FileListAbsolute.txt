@@ -1,0 +1,16 @@
+C:\Users\mateusz.szortyka\Desktop\szkola\c# -wf\zsk-pad-lekcje-main\zsk-pad-lekcje-main\Projekt01UI\bin\Debug\net7.0-windows\Projekt01UI.exe
+C:\Users\mateusz.szortyka\Desktop\szkola\c# -wf\zsk-pad-lekcje-main\zsk-pad-lekcje-main\Projekt01UI\bin\Debug\net7.0-windows\Projekt01UI.deps.json
+C:\Users\mateusz.szortyka\Desktop\szkola\c# -wf\zsk-pad-lekcje-main\zsk-pad-lekcje-main\Projekt01UI\bin\Debug\net7.0-windows\Projekt01UI.runtimeconfig.json
+C:\Users\mateusz.szortyka\Desktop\szkola\c# -wf\zsk-pad-lekcje-main\zsk-pad-lekcje-main\Projekt01UI\bin\Debug\net7.0-windows\Projekt01UI.dll
+C:\Users\mateusz.szortyka\Desktop\szkola\c# -wf\zsk-pad-lekcje-main\zsk-pad-lekcje-main\Projekt01UI\bin\Debug\net7.0-windows\Projekt01UI.pdb
+C:\Users\mateusz.szortyka\Desktop\szkola\c# -wf\zsk-pad-lekcje-main\zsk-pad-lekcje-main\Projekt01UI\obj\Debug\net7.0-windows\Projekt01UI.Form1.resources
+C:\Users\mateusz.szortyka\Desktop\szkola\c# -wf\zsk-pad-lekcje-main\zsk-pad-lekcje-main\Projekt01UI\obj\Debug\net7.0-windows\Projekt01UI.csproj.GenerateResource.cache
+C:\Users\mateusz.szortyka\Desktop\szkola\c# -wf\zsk-pad-lekcje-main\zsk-pad-lekcje-main\Projekt01UI\obj\Debug\net7.0-windows\Projekt01UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateusz.szortyka\Desktop\szkola\c# -wf\zsk-pad-lekcje-main\zsk-pad-lekcje-main\Projekt01UI\obj\Debug\net7.0-windows\Projekt01UI.AssemblyInfoInputs.cache
+C:\Users\mateusz.szortyka\Desktop\szkola\c# -wf\zsk-pad-lekcje-main\zsk-pad-lekcje-main\Projekt01UI\obj\Debug\net7.0-windows\Projekt01UI.AssemblyInfo.cs
+C:\Users\mateusz.szortyka\Desktop\szkola\c# -wf\zsk-pad-lekcje-main\zsk-pad-lekcje-main\Projekt01UI\obj\Debug\net7.0-windows\Projekt01UI.csproj.CoreCompileInputs.cache
+C:\Users\mateusz.szortyka\Desktop\szkola\c# -wf\zsk-pad-lekcje-main\zsk-pad-lekcje-main\Projekt01UI\obj\Debug\net7.0-windows\Projekt01UI.dll
+C:\Users\mateusz.szortyka\Desktop\szkola\c# -wf\zsk-pad-lekcje-main\zsk-pad-lekcje-main\Projekt01UI\obj\Debug\net7.0-windows\refint\Projekt01UI.dll
+C:\Users\mateusz.szortyka\Desktop\szkola\c# -wf\zsk-pad-lekcje-main\zsk-pad-lekcje-main\Projekt01UI\obj\Debug\net7.0-windows\Projekt01UI.pdb
+C:\Users\mateusz.szortyka\Desktop\szkola\c# -wf\zsk-pad-lekcje-main\zsk-pad-lekcje-main\Projekt01UI\obj\Debug\net7.0-windows\Projekt01UI.genruntimeconfig.cache
+C:\Users\mateusz.szortyka\Desktop\szkola\c# -wf\zsk-pad-lekcje-main\zsk-pad-lekcje-main\Projekt01UI\obj\Debug\net7.0-windows\ref\Projekt01UI.dll
